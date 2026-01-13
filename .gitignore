@@ -1,0 +1,10 @@
+photos/
+videos/
+diceDigitTest/
+
+.vscode/
+__pycache__/
+
+code.ipynb
+test.py
+output.mp4
